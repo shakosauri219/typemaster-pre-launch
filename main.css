@@ -33,6 +33,7 @@ header button {
 header button:hover {
     background: #162542;
     cursor: pointer;
+    color: white;
 }
 
 header h1 {
