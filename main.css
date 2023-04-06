@@ -408,6 +408,7 @@ footer span {
     }
 
     .description {
+        max-height: 480px;
         margin-top: 30px;
         padding: 0px 165px;
         display: flex;
@@ -422,6 +423,7 @@ footer span {
         padding: 0px;
         width: 65%;
         margin-top: 0px;
+        grid-template-columns: 35% auto;
     }
 
     .description-text {
